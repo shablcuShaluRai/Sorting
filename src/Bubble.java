@@ -9,6 +9,7 @@ public class Bubble {
 
 		System.out.println("Input number of integers to sort");
 		n = in.nextInt();
+		
 
 		int array[] = new int[n];
 
